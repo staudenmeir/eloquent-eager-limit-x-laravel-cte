@@ -1,0 +1,33 @@
+{
+    "name": "staudenmeir/eloquent-eager-limit-x-laravel-cte",
+    "description": "Merge of staudenmeir/eloquent-eager-limit and staudenmeir/laravel-cte",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonas Staudenmeir",
+            "email": "mail@jonas-staudenmeir.de"
+        }
+    ],
+    "require": {
+        "php": "^8.0.2",
+        "illuminate/database": "^9.0",
+        "staudenmeir/eloquent-eager-limit": "^1.7.1",
+        "staudenmeir/laravel-cte": "^1.6.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Staudenmeir\\EloquentEagerLimitXLaravelCte\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Staudenmeir\\EloquentEagerLimit\\Tests\\": "tests/EloquentEagerLimit",
+            "Staudenmeir\\LaravelCte\\Tests\\": "tests/LaravelCte"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
