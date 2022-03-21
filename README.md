@@ -1,6 +1,6 @@
 ![CI](https://github.com/staudenmeir/eloquent-eager-limit-x-laravel-cte/workflows/CI/badge.svg)
-[![Code Coverage](https://scrutinizer-ci.com/g/staudenmeir/eloquent-eager-limit-x-laravel-cte/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/staudenmeir/eloquent-eager-limit-x-laravel-cte/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/staudenmeir/eloquent-eager-limit-x-laravel-cte/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/staudenmeir/eloquent-eager-limit-x-laravel-cte/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/staudenmeir/eloquent-eager-limit-x-laravel-cte/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/staudenmeir/eloquent-eager-limit-x-laravel-cte/?branch=main)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/staudenmeir/eloquent-eager-limit-x-laravel-cte/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/staudenmeir/eloquent-eager-limit-x-laravel-cte/?branch=main)
 [![Latest Stable Version](https://poser.pugx.org/staudenmeir/eloquent-eager-limit-x-laravel-cte/v/stable)](https://packagist.org/packages/staudenmeir/eloquent-eager-limit-x-laravel-cte)
 [![Total Downloads](https://poser.pugx.org/staudenmeir/eloquent-eager-limit-x-laravel-cte/downloads)](https://packagist.org/packages/staudenmeir/eloquent-eager-limit-x-laravel-cte)
 [![License](https://poser.pugx.org/staudenmeir/eloquent-eager-limit-x-laravel-cte/license)](https://packagist.org/packages/staudenmeir/eloquent-eager-limit-x-laravel-cte)
