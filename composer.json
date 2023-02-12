@@ -11,7 +11,7 @@
     "require": {
         "php": "^8.1",
         "illuminate/database": "^10.0",
-        "staudenmeir/eloquent-eager-limit": "^1.8",
+        "staudenmeir/eloquent-eager-limit": "^1.8.1",
         "staudenmeir/laravel-cte": "^1.7"
     },
     "require-dev": {
