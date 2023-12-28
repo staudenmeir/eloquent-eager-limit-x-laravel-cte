@@ -1,7 +1,7 @@
 # Eloquent Eager Limit + Laravel CTE
 
 [![CI](https://github.com/staudenmeir/eloquent-eager-limit-x-laravel-cte/actions/workflows/ci.yml/badge.svg)](https://github.com/staudenmeir/eloquent-eager-limit-x-laravel-cte/actions/workflows/ci.yml)
-[![Code Coverage](https://scrutinizer-ci.com/g/staudenmeir/eloquent-eager-limit-x-laravel-cte/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/staudenmeir/eloquent-eager-limit-x-laravel-cte/?branch=main)
+[![Code Coverage](https://codecov.io/gh/staudenmeir/eloquent-eager-limit-x-laravel-cte/graph/badge.svg?token=U6IP2SIFOU)](https://codecov.io/gh/staudenmeir/eloquent-eager-limit-x-laravel-cte)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/staudenmeir/eloquent-eager-limit-x-laravel-cte/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/staudenmeir/eloquent-eager-limit-x-laravel-cte/?branch=main)
 [![Latest Stable Version](https://poser.pugx.org/staudenmeir/eloquent-eager-limit-x-laravel-cte/v/stable)](https://packagist.org/packages/staudenmeir/eloquent-eager-limit-x-laravel-cte)
 [![Total Downloads](https://poser.pugx.org/staudenmeir/eloquent-eager-limit-x-laravel-cte/downloads)](https://packagist.org/packages/staudenmeir/eloquent-eager-limit-x-laravel-cte/stats)
