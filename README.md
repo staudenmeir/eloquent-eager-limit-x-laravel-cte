@@ -7,10 +7,13 @@
 [![Total Downloads](https://poser.pugx.org/staudenmeir/eloquent-eager-limit-x-laravel-cte/downloads)](https://packagist.org/packages/staudenmeir/eloquent-eager-limit-x-laravel-cte/stats)
 [![License](https://poser.pugx.org/staudenmeir/eloquent-eager-limit-x-laravel-cte/license)](https://github.com/staudenmeir/eloquent-eager-limit-x-laravel-cte/blob/main/LICENSE)
 
+> [!IMPORTANT]
+> The `staudenmeir/eloquent-eager-limit` package's code has been merged into Laravel 11+ and eager loading limits are now supported natively.
+
 This Laravel package merges [staudenmeir/eloquent-eager-limit](https://github.com/staudenmeir/eloquent-eager-limit)
 and [staudenmeir/laravel-cte](https://github.com/staudenmeir/laravel-cte) to allow them being used in the same model.
 
-Supports Laravel 9.0+.
+Supports Laravel 9–10.
 
 ## Installation
 
